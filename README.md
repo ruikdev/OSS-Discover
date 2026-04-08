@@ -1,0 +1,1 @@
+ A peer-to-peer visibility network for open source projects. Embed a banner, display others. No money — just mutual promotion across the OSS ecosystem.
